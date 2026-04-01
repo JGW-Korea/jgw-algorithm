@@ -1,6 +1,6 @@
 # DSA(Data Structure and Algorithm)
 
-DSA 리포지토리는 [Notion에 정리한 자료구조 및 알고리즘의 개념](https://gye-won.notion.site/DSA-31a88bd9c3fa80b08137dfb06fb8ff69?pvs=74)에 맞게 JavaScript 코드로 작성하고, 온라인 저지 사이트에서 해결한 문제들에 대한 코드와 설명을 관리하는 리포지토리입니다.
+DSA 리포지토리는 [Notion에 정리한 자료구조 및 알고리즘의 개념](https://gye-won.notion.site/DSA-31a88bd9c3fa80b08137dfb06fb8ff69?pvs=74)을 기반으로 JavaScript 코드로 구현하고, 온라인 저지 사이트에서 해결한 문제의 코드와 설명을 함께 관리하는 리포지토리입니다.
 
 <br />
 
