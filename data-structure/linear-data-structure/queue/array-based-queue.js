@@ -40,6 +40,7 @@ function arrayIndexBasedQueue() {
   // 원소 제거
   for(let i = 0; i < 3; i++) {
     console.log(queue[front]);
+    queue[front] = null;
     front += 1;
   }
 
