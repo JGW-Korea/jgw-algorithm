@@ -1,4 +1,4 @@
-// 두 구간의 합이 num 이상인 경우를 구하는 함수
+// 두 구간의 합이 num 이상인 경우의 수를 구하는 함수
 function solution(arr, num) {
   let result = 0;
 
