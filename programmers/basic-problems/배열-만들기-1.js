@@ -1,9 +1,15 @@
 function solution(n, k) {
   const answer = [];
 
-  for(let i = 1; i <= n; i++) {
-    if(i % k === 0) {
-      answer.push(i);
+  let multiple = 0;
+  let time = 1;
+
+  while(true) {
+    multiple = k * time++;
+
+    if(multiple <= n) answer.push(multiple);
+    else {
+      break;
     }
   }
 
